@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, sans-serif;
+    background:#f4f4f4;
+    display:flex;
+    justify-content:center;
+    margin-top:60px;
+}
+
+.container{
+    width:500px;
+    background:white;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,.2);
+}
+
+input{
+    width:100%;
+    padding:10px;
+    margin:15px 0;
+}
+
+button{
+    padding:10px 20px;
+    cursor:pointer;
+}
+
+#reply{
+    margin-top:20px;
+    white-space:pre-wrap;
+}
